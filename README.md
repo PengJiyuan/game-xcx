@@ -1,3 +1,3 @@
 # FlappyBird小游戏
 
-<img src="./screenshot.png" align="center" >
+<img width="400" src="./screenshot.png" align="center" >
